@@ -1,6 +1,5 @@
-
-   #一个简单的react单页应用
-   配置如下：
+#一个简单的react单页应用
+配置如下：
    	{
   "name": "react-guide",
   "version": "1.0.0",
