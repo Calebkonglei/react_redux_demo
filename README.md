@@ -37,5 +37,6 @@
 	    "webpack-stream": "^3.1.0"
 	  }
 	}
-	npm install
-	npm start
+	
+#npm install
+#npm start	
