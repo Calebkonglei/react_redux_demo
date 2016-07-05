@@ -58,7 +58,8 @@ If you want to edit the React code, you'll have to re-build the `public/js/bundl
 gulp watch
 ```
 
-相关总结：http://blog.csdn.net/konglei1996/article/details/51729856
+相关总结：
+          http://blog.csdn.net/konglei1996/article/details/51729856
           http://blog.csdn.net/konglei1996/article/details/51832762
           http://blog.csdn.net/konglei1996/article/details/51833268
 
